@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\bin\Debug\GenericsIntro.exe.config
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\bin\Debug\GenericsIntro.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\bin\Debug\GenericsIntro.pdb
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\GenericsIntro\GenericsIntro\obj\Debug\GenericsIntro.pdb

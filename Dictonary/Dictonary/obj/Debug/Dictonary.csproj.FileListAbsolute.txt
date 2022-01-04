@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\bin\Debug\Dictonary.exe.config
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\bin\Debug\Dictonary.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\bin\Debug\Dictonary.pdb
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\obj\Debug\Dictonary.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\Dictonary\Dictonary\obj\Debug\Dictonary.pdb
