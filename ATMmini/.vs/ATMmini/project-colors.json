@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c15999f8-8e1e-4890-b848-7406fab3a16e": {
+      "ProjectGuid": "c15999f8-8e1e-4890-b848-7406fab3a16e",
+      "DisplayName": "ATMmini",
+      "ColorIndex": 0
+    },
+    "3ceed5f1-baed-43f3-bb1c-dd2d6f945a71": {
+      "ProjectGuid": "3ceed5f1-baed-43f3-bb1c-dd2d6f945a71",
+      "DisplayName": "Dizilerde tek cift sayilarin toplami ve ortalamasi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

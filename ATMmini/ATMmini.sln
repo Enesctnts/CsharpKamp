@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMmini", "ATMmini\ATMmini.csproj", "{C15999F8-8E1E-4890-B848-7406FAB3A16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizilerde tek cift sayilarin toplami ve ortalamasi", "Dizilerde tek cift sayilarin toplami ve ortalamasi\Dizilerde tek cift sayilarin toplami ve ortalamasi.csproj", "{3CEED5F1-BAED-43F3-BB1C-DD2D6F945A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C15999F8-8E1E-4890-B848-7406FAB3A16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15999F8-8E1E-4890-B848-7406FAB3A16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15999F8-8E1E-4890-B848-7406FAB3A16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15999F8-8E1E-4890-B848-7406FAB3A16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEED5F1-BAED-43F3-BB1C-DD2D6F945A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEED5F1-BAED-43F3-BB1C-DD2D6F945A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEED5F1-BAED-43F3-BB1C-DD2D6F945A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEED5F1-BAED-43F3-BB1C-DD2D6F945A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061A0A92-B12D-4CBB-8984-3B14F5A0C669}
+	EndGlobalSection
+EndGlobal

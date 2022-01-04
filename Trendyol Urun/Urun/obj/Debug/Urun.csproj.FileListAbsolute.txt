@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\obj\Debug\Urun.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\obj\Debug\Urun.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\obj\Debug\Urun.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\bin\Debug\Urun.exe.config
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\bin\Debug\Urun.exe
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\bin\Debug\Urun.pdb
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\obj\Debug\Urun.exe
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\Trendyol Urun\Urun\obj\Debug\Urun.pdb

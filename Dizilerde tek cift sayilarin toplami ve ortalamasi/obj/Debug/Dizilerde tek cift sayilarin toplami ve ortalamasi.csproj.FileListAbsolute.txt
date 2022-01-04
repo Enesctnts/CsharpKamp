@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\bin\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.exe.config
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\bin\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.exe
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\bin\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.pdb
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\obj\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\obj\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\obj\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\obj\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.exe
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\Dizilerde tek cift sayilarin toplami ve ortalamasi\obj\Debug\Dizilerde tek cift sayilarin toplami ve ortalamasi.pdb

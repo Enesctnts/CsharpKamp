@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\bin\Debug\ATMmini.exe.config
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\bin\Debug\ATMmini.exe
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\bin\Debug\ATMmini.pdb
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\obj\Debug\ATMmini.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\obj\Debug\ATMmini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\obj\Debug\ATMmini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\obj\Debug\ATMmini.exe
+C:\Users\hp\Documents\GitHub\C-sharp\ATMmini\ATMmini\obj\Debug\ATMmini.pdb

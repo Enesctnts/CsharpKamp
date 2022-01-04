@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\bin\Debug\MusteriTakip.exe.config
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\bin\Debug\MusteriTakip.exe
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\bin\Debug\MusteriTakip.pdb
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\obj\Debug\MusteriTakip.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\obj\Debug\MusteriTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\obj\Debug\MusteriTakip.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\obj\Debug\MusteriTakip.exe
+C:\Users\hp\Documents\GitHub\c-sharp-ogreniyorum\MusteriTakip\obj\Debug\MusteriTakip.pdb

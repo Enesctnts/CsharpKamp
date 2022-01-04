@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a04b9aeb-a42c-4a13-a9c5-8f32080b64c7": {
+      "ProjectGuid": "a04b9aeb-a42c-4a13-a9c5-8f32080b64c7",
+      "DisplayName": "MusteriTakip",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
