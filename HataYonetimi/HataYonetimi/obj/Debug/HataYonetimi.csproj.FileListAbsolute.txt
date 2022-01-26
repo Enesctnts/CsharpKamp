@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\bin\Debug\HataYonetimi.exe.config
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\bin\Debug\HataYonetimi.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\bin\Debug\HataYonetimi.pdb
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.pdb
