@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\bin\Debug\AdoNetDemoo.exe.config
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\bin\Debug\AdoNetDemoo.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\bin\Debug\AdoNetDemoo.pdb
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.Form1.resources
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\AdoNetDemoo\AdoNetDemoo\obj\Debug\AdoNetDemoo.pdb
