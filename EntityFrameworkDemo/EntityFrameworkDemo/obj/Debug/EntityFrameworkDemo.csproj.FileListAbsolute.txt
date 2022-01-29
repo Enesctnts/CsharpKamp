@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\NuGet.Frameworks.dll
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\NuGet.Frameworks.xml
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\hp\Documents\GitHub\CsharpKamp\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
