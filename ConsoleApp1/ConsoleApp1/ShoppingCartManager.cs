@@ -4,7 +4,21 @@ using System.Text;
 
 namespace CustomerProductTrack
 {
-    class ShoppingCartManager
+    public class ShoppingCartManager : IShoppingCartService
     {
+        public void Add(Category category)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete(Category category)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Category category)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
