@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using static CustomerProductTrack.CategoriesManager;
 
 namespace CustomerProductTrack
 {
@@ -8,7 +9,7 @@ namespace CustomerProductTrack
     {
         public int ProductId { get; set; }
         public string ProductName { get; set; }
-        public Category ProductCategory { get; set; }
+        public ProductCategory ProductCategory { get; set; }
 
 
     }

@@ -9,6 +9,7 @@ namespace CustomerProductTrack
         public void Add(Customer customer);
         public void Delete(Customer customer);
         public void Update(Customer customer);
-        List<Customer> Listele();
+        List<Customer> CustomerList();
+
     }
 }

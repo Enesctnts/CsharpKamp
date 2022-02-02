@@ -7,8 +7,7 @@ namespace CustomerProductTrack
 {
     public class ProductManager : IProductService
     {
-        List<Product> _product = new List<Product>();
-
+        List<Product> _product= new List<Product>();
 
         public void Add(Product product)
         {
