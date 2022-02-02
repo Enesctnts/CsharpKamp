@@ -97,7 +97,7 @@ namespace ConsoleUI
             dizustu3.EkranBoyutu = "10 inc";
             dizustu3.EthernetVarMi = false;
             dizustu3.WifiVarMi = true;
-            dizustu3.kategori = dizustuManager.KategoriBul(3);
+            dizustu3.kategori = dizustuManager.KategoriBul(2);
             dizustuManager.Kaydet(dizustu3);
 
 
@@ -119,9 +119,9 @@ namespace ConsoleUI
                 Console.WriteLine(item.kategori.CategoryName + " " + item.Marka);
             }
 
-
+            Console.ReadLine();
 
         }
     }
-    }
 }
+
